@@ -1,2 +1,2 @@
 # jLive
-javascript framework
+
