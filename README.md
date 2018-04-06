@@ -11,7 +11,7 @@
 JLive is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML. It is free, open-source software using the permissive MIT License. JLive's syntax is designed to make it easier to navigate a document, use PHP useful functions, select DOM elements, create animations, handle events, form validation, and develop Ajax applications.  
 JLive also provides capabilities for developers to create plug-ins on top of the JavaScript library.
 
-[Download JLive](#)</div>
+[Visit Web Site](https://jlive-lib.com/ "Visit Web Site")</div>
 
 </section>
 
