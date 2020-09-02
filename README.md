@@ -17,8 +17,6 @@ JLive can be used as backend with NODEJS, here is all [available functions for N
 
 `npm i jlive`
 
-[All functions for NODEJS are available here ...](https://jlive-lib.com/php_function.php)
-
 ###### NODEJS Code Example
 
     import { JlivePHP } from 'jlive';
