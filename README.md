@@ -43,7 +43,9 @@ The JLive library is a single JavaScript file containing all of its common DOM, 
 
 ### Client-side Usage
 
-JLive has two usage styles:*   Via the **$j function** , which is a factory method for the JLive object. These functions are chainable as they all return jlive objects.
+JLive has two usage styles:
+
+*   Via the **$j function** , which is a factory method for the JLive object. These functions are chainable as they all return jlive objects.
 *   Via **$j.-prefixed functions**. These are PHP functions and others utility functions.
 
 Access to and manipulation of multiple DOM nodes in JLive typically begins with calling the $j function with a CSS selector string. This returns a JLive object referencing all the matching elements in the HTML page. $j("div .test"), for example, returns a JLive object with all the div elements of class test. This node set can be manipulated by calling methods on the returned JLive object or on the nodes themselves.
